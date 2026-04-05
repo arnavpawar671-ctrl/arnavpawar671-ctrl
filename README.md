@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Developing software and more!<br>👯 I’m looking to collaborate on C++<br>🤝 I’m looking for help with any coding problems<br>🌱 I’m currently learning C++, C#<br>💬 Ask me about anything<br>⚡ Fun fact that I am a EA developer
 
 
 ## 🌐 Socials:
