@@ -15,7 +15,9 @@
 ## 🏆 GitHub Trophies
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arnavpawar671-ctrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
+https://github.com/arnavpawar671-ctrl/supercodez-website.git
+https://github.com/arnavpawar671-ctrl/codex.git
+https://github.com/arnavpawar671-ctrl/calculator.git
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arnavpawar671-ctrl&icon=0&color=0)](https://visitcount.itsvg.in)
