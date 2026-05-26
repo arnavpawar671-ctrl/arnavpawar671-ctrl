@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing software and more!<br>👯 I’m looking to collaborate on C++<br>🤝 I’m looking for help with any coding problems<br>🌱 I’m currently learning C++, C#<br>💬 Ask me about anything<br>⚡ Fun fact that I am a EA developer
-
+🔭 I’m currently working on Developing software and more!<br>👯 I’m looking to collaborate on C++<br>🤝 I’m looking for help with any coding problems<br>🌱 I’m currently learning C++, C#<br>💬 Ask me about anything
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/arnavpawar671.bsky.social) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/11kzpk_arnav19) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@11kzpk_arnav19) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ArnavPawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavpawar671@gmail.com) 
